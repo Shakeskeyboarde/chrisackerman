@@ -1,0 +1,10 @@
+.vscode/
+node_modules/
+out/
+
+*.tgz
+*.zip
+*.tar
+*.gz
+*.log
+.DS_Store
